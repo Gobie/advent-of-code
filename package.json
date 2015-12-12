@@ -1,0 +1,23 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "Advent of code solutions",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Gobie/advent-of-code.git"
+  },
+  "keywords": [
+    "advent",
+    "code"
+  ],
+  "author": "Michal Brašna <michal.brasna@gmail.com> (https://github.com/Gobie)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gobie/advent-of-code/issues"
+  },
+  "homepage": "https://github.com/Gobie/advent-of-code#readme"
+}
